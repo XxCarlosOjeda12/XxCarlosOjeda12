@@ -16,8 +16,6 @@
 
 <br/>
 
-<img align="right" height="200" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlycmRybXVpMDZoMWdlZzZxMTZ0eWZiN3Y2bHhwdWkxbHltN2RidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/waGal21kLo58LOkKl3/giphy.gif" alt="Animation"/>
-
 ### Sobre mí
 
 - Estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM IPN** (México)
@@ -58,12 +56,3 @@
 </p>
 
 ---
-
-### Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxCarlosOjeda12&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCarlosOjeda12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer&animation=twinkling" width="100%"/>
