@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠 Stack Tecnológico
+### Stack Tecnológico
 
 #### Frontend
 <p>
