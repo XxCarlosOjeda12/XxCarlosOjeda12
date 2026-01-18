@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=180&section=header&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <h1>Hola, soy Elias Ojeda 👋</h1>
-  <h3>Desarrollador Fullstack & Entusiasta de la Algoritmia</h3>
+  <h1>Hi, I'm Elias Ojeda 👋</h1>
+  <h3>Fullstack Developer, Algorithm and Math Enthusiast</h3>
 </div>
 
 <div align="center">
@@ -16,19 +16,20 @@
 
 <br/>
 
-### Sobre mí
+### About Me
 
-- Estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM IPN** (México)
-- **Desarrollador Fullstack** con +3 años de experiencia creando aplicaciones escalables 
-- Apasionado por las **Matemáticas Aplicadas** y la **Programación Competitiva**
-- He liderado proyectos de desarrollo web y sistemas computacionales
-- Siempre busco optimizar código y aprender nuevas tecnologías
+- **Computer Systems Engineering** student at **ESCOM IPN** (Mexico)
+- **Fullstack Developer** with +3 years of experience building scalable applications
+- Passionate about **Pure Mathematics** and **Competitive Programming**
+- Currently learning **Machine Learning** and expanding my AI skills
+- I've led web development and computer systems projects
+- Always seeking to optimize code and learn new technologies
 
 <br clear="all"/>
 
 ---
 
-### Stack Tecnológico
+### Tech Stack
 
 #### Frontend
 <p>
@@ -40,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,java,cs,cpp" />
 </p>
 
-#### Bases de Datos
+#### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
@@ -50,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github,gitlab" />
 </p>
 
-#### Herramientas
+#### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,figma,ps,notion" />
 </p>
